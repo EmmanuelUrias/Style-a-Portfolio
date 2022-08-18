@@ -1,0 +1,16 @@
+body {
+    background-color : lightblue;} 
+    
+    img {
+        border-radius: 20px;
+        max-width: 300px;
+        max-height: 300px;
+        cursor: pointer;
+      }
+
+      h1 {
+        color : white
+      }
+      cursor {
+        cursor: pointer;
+      }
